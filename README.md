@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Zana Kryezi
+# 👋 Hi, I'm Zana
 
 💼 Aspiring [Your Role — e.g., Data Analyst, Software Developer]  
-📍 Based in Frankfurt  
+📍 Based in Germany
 🎯 Passionate about building clear, well-structured solutions and documenting projects with precision.
 
 ## 🧩 Featured Projects
